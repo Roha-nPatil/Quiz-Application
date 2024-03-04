@@ -1,4 +1,4 @@
-# *** Quiz Application ***
+# QUIZ APPLICATION
 
 
 ### CREATING A DATABASE
