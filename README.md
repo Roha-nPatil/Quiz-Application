@@ -1,13 +1,13 @@
 # *** Quiz Application ***
 ==============================================================
 
-### //CREATING A DATABASE
+### CREATING A DATABASE
 
 CREATE DATABASE IF NOT EXISTS quiz_application_db;
 use quiz_application_db;
 
 _____________________________________________________________
-### /CREATING A TABLE quiz_app
+### CREATING A TABLE quiz_app
 
 CREATE TABLE IF NOT EXISTS quiz_app (
 question_id INT NOT NULL AUTO_INCREMENT,
@@ -21,7 +21,7 @@ PRIMARY KEY (question_id)
 );
 
 ______________________________________________________________
-### //CREATING A TABLE user_login
+### CREATING A TABLE user_login
 
 CREATE TABLE IF NOT EXISTS user_login (
 email varchar(50) NOT NULL,
