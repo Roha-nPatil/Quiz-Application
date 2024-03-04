@@ -3,8 +3,8 @@
 
 ### CREATING A DATABASE
 
-CREATE DATABASE IF NOT EXISTS quiz_application_db;
-use quiz_application_db;
+CREATE DATABASE IF NOT EXISTS quiz_application_db;                                               
+USE quiz_application_db;
 
 _____________________________________________________________
 ### CREATING A TABLE quiz_app
