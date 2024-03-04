@@ -1,4 +1,4 @@
-####*** Quiz Application ***
+# *** Quiz Application ***
 
 ##//CREATING A DATABASE
 CREATE DATABASE IF NOT EXISTS quiz_application_db;
